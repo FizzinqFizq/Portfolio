@@ -1,5 +1,5 @@
 Hello! My name is Fiza, a current third year student studying at Manchester Metropolitan University with a mission to become a SOC (Security Operation Centre) Analyst after graduating.
-I will be actively uploading personal lab demostrations to my portfolio to view my range of expertise that can be imployed to your workforce.
+I will be actively uploading personal lab demonstrations to my portfolio that I hope I can employ to your workforce.
 Thank you for taking your time to read my short introduction.
 
 Tools I currently excel in
